@@ -5,4 +5,3 @@ def parrot(string="Squawk!", *p)
  "#{string}"
 end
 
-parrot("Pretty bird!")
